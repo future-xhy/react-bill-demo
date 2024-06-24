@@ -14,8 +14,8 @@ export default createBrowserRouter([
         element: <Year />
       },
       {
-        index: true,
-        // path: 'month',
+        // index: true,
+        path: 'month',
         element: <Month />
       },
     ]
